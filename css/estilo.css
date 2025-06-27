@@ -1,0 +1,56 @@
+#menu{
+    color: white;
+}
+
+.nav-link {
+    color: grey !important;
+  }
+
+  #hero{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: rgb(215, 215, 215);
+}
+
+.color_gris{
+    color: grey;
+}
+
+.padding_titulo{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.padding_arriba_abajo{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.color_rojo{
+    color: #ce1212;
+}
+
+#piedepagina{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: rgb(16, 16, 16);
+    color: rgb(215, 215, 215);
+}
+
+.fondo_pg{
+    background-color: rgb(16, 16, 16);
+}
+
+.color_blanco{
+    color: white;
+}
+
+.cajadeservicios{
+
+    text-align: center;
+    padding: 80px 20px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
